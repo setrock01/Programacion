@@ -14,6 +14,7 @@ for i in range(0, len(array_1)):
     for a in range(0, len(array_1[i])):
         if array_1[i][a] in array_1:
             array_1[i][a] = random.randint(0, 1000)
+            i = 0
 
 for i in range(0, len(array_1)):
     print(array_1[i])
