@@ -1,0 +1,25 @@
+from ej_5cola import Cola
+
+pila = Cola([4,5,6])
+
+print(pila.cola_vacia())
+pila.encolar(5)
+print(pila.cola_vacia())
+pila.encolar(8)
+print(pila.elementos)
+pila.encolar(9)
+pila.encolar(200)
+pila.encolar("ahora una cadena")
+print(pila.elementos)
+pila.desencolar()
+print(pila.elementos)
+pila.desencolar()
+print(pila.elementos)
+pila.desencolar()
+print(pila.elementos)
+pila.desencolar()
+print(pila.elementos)
+pila.desencolar()
+print(pila.elementos)
+
+pila.desencolar()
