@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Juegos>
+	<Juego Nombre="Juego1" Calificacion="4.3">
+		<Creador>東方獣王園 〜 Unfinished Dream of All Living Ghost</Creador>
+		<Personajes>
+			<Personaje>ZUN</Personaje>
+			<Personaje>Reimu Hakurei</Personaje>
+			<Personaje>Marisa Kirisame</Personaje>
+			<Personaje>Nazrin</Personaje>
+			<Personaje>Seiran</Personaje>
+		</Personajes>
+	</Juego>
+</Juegos>
